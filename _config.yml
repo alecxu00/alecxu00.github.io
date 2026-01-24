@@ -1,7 +1,8 @@
-title: Alec Xu
+title: ""
 description: ""
 theme: jekyll-theme-minimal
-show_downloads: false 
+
+show_github: false
 
 github:
   is_project_page: false
